@@ -41,7 +41,7 @@ Shape: 768 rows × 9 columns
 
 ## 📈 Model Evaluation
 
-We evaluated the Random Forest classifier on the diabetes dataset using several important metrics and visualizations:
+I evaluated the Random Forest classifier on the diabetes dataset using several important metrics and visualizations:
 
 - **Accuracy:** 72% overall accuracy on the test set.  
 - **Classification Report:** Includes precision, recall, and F1-score for both classes (diabetic and non-diabetic).
