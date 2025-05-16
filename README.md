@@ -27,7 +27,7 @@ Shape: 768 rows × 9 columns
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/yourusername/diabetes-prediction.git
+   git clone https://github.com/alirazmjooei/diabetes-prediction.git
    cd diabetes-prediction
    ```
 2. Install dependencies:  
